@@ -112,6 +112,11 @@ contract Escrow {
 
     receive() external payable {}
 
+    //fallback() external payable {}
+
+    // receive() external payable {}
+    //  fallback() external payable {}
+
     function getBalance() public view returns (uint256) {
         return address(this).balance;
     }
