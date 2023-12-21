@@ -5,10 +5,10 @@ PrimeEstate is a decentralized real estate platform built on the Ethereum blockc
 
 - [@Souvik3469](https://github.com/Souvik3469)(Souvik Sen)
 
-<!--
+
 ## Prototype Demo 
-https://tender-vault-frontend.vercel.app
--->
+https://prime-estate-web3.vercel.app
+
 
 ## Technology Stack & Tools
 
